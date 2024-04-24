@@ -1,0 +1,16 @@
+app:
+  url-base: "http://localhost:9006/"
+  url-reset: "http://localhost:9006/account/reset/finish?key={token}&lang={language}"
+  url-activate: "http://localhost:9006/account/citizen/activate?key={token}&lang={language}"
+  port: "8091"
+
+jwt:
+  token-ttl: 2000
+  private-key: "PAREGLVUOkTpYqVkHjg9NzgyZTRiMjQ2OWUzODU2nzA3NzdkZGVlYoT5NDE2MTYzZTMwZjE4NjViMThkZTZiMzExYmU1YmRhNjJlYWIwMWI3ODFjNTg3OGIzNjNhYjQxODFkNzg1MTk2YjY5ZjIwOGVAuWM5YzU3ZjViZDdkZDU="
+
+postgres:
+   host: "localhost"
+   user: "postgres"
+   password: 'admin'
+   port: 5432 
+   database: "compol"
