@@ -25,5 +25,7 @@ func ConnectToDB() {
 
 }
 func Migrate() {
-	DB.AutoMigrate()
+	DB.AutoMigrate(
+		&CatInstruments{},
+	)
 }

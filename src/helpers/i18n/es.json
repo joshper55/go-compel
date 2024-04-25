@@ -1,7 +1,7 @@
 {
   "CANCEL_TRANSACTION_OK": "La transacción se canceló correctamente.",
   "CPU_VALUE_ERROR": "El valor de cpu sólo puede ser entre 1 a 2",
-  "DENUNCIA_SAVED_OK": "La denuncia se guardó correctamente.",
+  "DATA_SAVED_OK": "La información se guardó correctamente.",
   "ERROR_CHANGE_DIRECTION": "Los carriles que se recibieron no concuerdan con las que estás guardadas",
   "ERROR_CHANGE_DIRECTION_CONNECT": "Los cambios no pudieron ser notificados al portal, por lo tanto, se cancela la edición, favor de ponerse en contacto con el administrador",
   "ERROR_FORMAT_MESSAGE": "El valor no cumple con el formato adecuado {{.format}}",

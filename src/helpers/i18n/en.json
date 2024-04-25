@@ -1,7 +1,7 @@
 {
   "CANCEL_TRANSACTION_OK": "The transaction was successfully canceled.",
   "CPU_VALUE_ERROR": "The cpu value can only be between 1 to 2",
-  "DENUNCIA_SAVED_OK": "The report was saved correctly.",
+  "DATA_SAVED_OK": "The data was saved correctly.",
   "ERROR_CHANGE_DIRECTION": "The lanes that were received do not match the ones that are saved",
   "ERROR_CHANGE_DIRECTION_CONNECT": "The changes could not be notified to the portal, therefore the edition is cancelled, please contact the administrator",
   "ERROR_FORMAT_MESSAGE": "The value does not meet the proper format {{.format}}",
@@ -18,7 +18,7 @@
   "MAX_FIELD_ERROR_MESSAGE": "This field exceeds the maximum number of {{.length}} characters.",
   "MESSAGE_SAVE_OK_CHANGE_DIRECTION": "The lanes direction was saved correctly",
   "MIN_FIELD_ERROR_MESSAGE": "This field does not meet the required minimum of {{.length}} characters.",
-  "NOT_FOUND_DENUNCIA": "Not found report",
+  "NOT_FOUND_DATA": "Not found data",
   "RFID_TAG_AND_NO_PLATE_ERROR": "When the plate is not sent, an rfid tag must come",
   "RFID_TAG_MAX_ERROR": "The maximum number of rfid tag elements is 5",
   "TOLL_TRANSACTION_NOT_FOUND": "The transaction was not found.",
